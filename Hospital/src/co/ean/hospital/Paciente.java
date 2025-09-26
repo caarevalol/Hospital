@@ -24,11 +24,11 @@ public class Paciente {
         return nombre;
     }
 
-    public double getCedula() {
+    public long getCedula() {
         return cedula;
     }
 
-    public double getNumero() {
+    public long getNumero() {
         return numero;
     }
 
